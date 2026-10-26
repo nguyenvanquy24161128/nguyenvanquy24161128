@@ -4,7 +4,7 @@
 
 **Full name:** Nguyễn Văn Quý  
 **MSSV:** 24161128 - ĐH Sư phạm Kỹ thuật TP.HCM (HCMUTE)  
-**Email:** [your-email@gmail.com](vanq4314#gmail.com)  
+**Email:** (vanq4314#gmail.com)  
 **Profiles:** [GitHub](https://github.com/nguyenvanquy24161128) 
 
 ---
