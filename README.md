@@ -1,36 +1,36 @@
-<p align="right"><i>[ Mục tiêu: Embedded Linux & IoT Systems Engineer ]</i></p>
+<p align="right"><i>[ Mục tiêu: Kỹ sư Embedded Linux & Hệ thống IoT ]</i></p>
 
-# Hi, I'm Nguyễn Văn Quý 🚀
+# Xin chào, mình là Nguyễn Văn Quý 🚀
 
-**Full name:** Nguyễn Văn Quý  
-**MSSV:** 24161128 - ĐH Sư phạm Kỹ thuật TP.HCM (HCMUTE)  
-**Email:** [vanq4314@gmail.com](vanq414@gmail.com)
-**Profiles:** [GitHub](https://github.com/nguyenvanquy24161128) 
-
----
-
-### ABOUT ME
-I am highly interested in **Embedded Linux**, **Kernel Drivers**, and **IoT System Architecture**.
-
-**Currently focusing on:**
-* **Linux Kernel & Device Drivers:** Writing Character/Block Drivers, C/C++ Low-level programming.
-* **Yocto Project:** Building custom BSPs, BitBake recipes, and QEMU system emulation.
-* **IoT & Embedded Systems:** Hardware interfacing (UART, SPI, I2C), Microcontrollers, Real-time Data Monitoring.
+**Họ và tên:** Nguyễn Văn Quý  
+**MSSV:** 24161128 - Trường Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE)  
+**Email:** [vanq4314@gmail.com](vanq4314@gmail.com)  
+**Liên kết:** [GitHub](https://github.com/nguyenvanquy24161128) 
 
 ---
 
-### PROJECT SUMMARY
-A quick overview of what I've been working on — click on each project for more details.
+### GIỚI THIỆU
+Mình có niềm đam mê lớn với **Embedded Linux**, **Kernel Drivers** và **Kiến trúc Hệ thống IoT**.
 
-* 🧊 **[Cold-Chain Monitoring & Intelligent Storage Management](https://github.com/nguyenvanquy24161128/Cold-Chain-Monitoring-and-Intelligent-Storage-Management)** *(10/2026)*  
-  Real-time IoT storage monitoring system for cold-chain logistics; tracks environmental metrics (temperature/humidity) and manages warehouse database.
-
-* 🐧 **[Embedded Linux OS & Character Device Driver](https://github.com/nguyenvanquy24161128/de-tai-2-yocto)** *(09/2026)*  
-  Built a custom Embedded Linux distribution using Yocto Project & developed custom Character Device Drivers executed on QEMU emulator.
+**Định hướng & Kỹ năng hiện tại:**
+* **Linux Kernel & Device Driver:** Lập trình C/C++ mức thấp, viết Character Driver / Block Driver.
+* **Yocto Project:** Tùy biến hệ điều hành nhúng (Custom Distro/BSP), viết BitBake recipes, mô phỏng hệ thống trên QEMU.
+* **Hệ thống Nhúng & IoT:** Giao tiếp phần cứng (UART, SPI, I2C), giám sát dữ liệu thời gian thực.
 
 ---
 
-### FOR RECRUITERS / MENTORS
-If you are looking for my detailed academic background, please access the link below:
+### DỰ ÁN NỔI BẬT
+Tóm tắt các dự án mình đã và đang thực hiện — bấm vào tên từng dự án để xem chi tiết README.
 
-🔗 **[View Resume & Academic Transcript](https://drive.google.com/...)**
+* 🧊 **[Cold-Chain-Monitoring-and-Intelligent-Storage-Management](https://github.com/nguyenvanquy24161128/Cold-Chain-Monitoring-and-Intelligent-Storage-Management)** *(10/2026)*  
+  Hệ thống giám sát chuỗi cung ứng lạnh và quản lý kho thông minh qua IoT; theo dõi nhiệt độ, độ ẩm theo thời gian thực và quản lý cơ sở dữ liệu kho lưu trữ.
+
+* 🐧 **[yocto-embedded-linux-driver](https://github.com/nguyenvanquy24161128/yocto-embedded-linux-driver)** *(09/2026)*  
+  Xây dựng hệ điều hành Embedded Linux tùy biến bằng Yocto Project & phát triển Character Device Driver chạy mô phỏng trên QEMU.
+
+---
+
+### DÀNH CHO NHÀ TUYỂN DỤNG / MENTOR
+Nếu anh/chị muốn xem chi tiết Hồ sơ năng lực và Bảng điểm học tập của em, xin vui lòng truy cập liên kết bên dưới:
+
+🔗 **[Xem CV & Bảng điểm cá nhân](https://drive.google.com/...)**
