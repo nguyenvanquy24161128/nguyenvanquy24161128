@@ -8,3 +8,4 @@
 
 ### 📌 Dự án nổi bật:
 - 🚀 **[de-tai-2-yocto](https://github.com/nguyenvanquy24161128/de-tai-2-yocto)**: Xây dựng hệ điều hành Embedded Linux với Yocto Project & tích hợp Character Device Driver chạy trên QEMU.
+- * 🚀 [Cold-Chain-Monitoring-and-Intelligent-Storage-Management](https://github.com/nguyenvanquy24161128/Cold-Chain-Monitoring-and-Intelligent-Storage-Management): Hệ thống giám sát chuỗi cung ứng lạnh và quản lý kho thông minh.
